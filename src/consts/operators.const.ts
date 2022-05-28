@@ -1,4 +1,3 @@
-
 export const MULTIPLY: number = 106;
 export const ADD: number = 107;
 export const SUBTRACT: number = 109;

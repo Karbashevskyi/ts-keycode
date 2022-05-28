@@ -1,4 +1,3 @@
-
 export const A: number = 65;
 export const B: number = 66;
 export const C: number = 67;

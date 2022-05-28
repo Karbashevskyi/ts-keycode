@@ -9,13 +9,13 @@ import * as operators from '../consts/operators.const';
 import * as select from '../consts/select.const';
 
 export interface KeycodeInterface {
-    accents: typeof accents,
-    alphabet: typeof alphabet,
-    commands: typeof commands,
-    f: typeof f,
-    functions: typeof functions,
-    numbers: typeof numbers,
-    numpad: typeof numpad,
-    operators: typeof operators,
-    select: typeof select
+  accents: typeof accents;
+  alphabet: typeof alphabet;
+  commands: typeof commands;
+  f: typeof f;
+  functions: typeof functions;
+  numbers: typeof numbers;
+  numpad: typeof numpad;
+  operators: typeof operators;
+  select: typeof select;
 }

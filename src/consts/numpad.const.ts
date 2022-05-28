@@ -1,4 +1,3 @@
-
 export const NUMPAD_0: number = 96;
 export const NUMPAD_1: number = 97;
 export const NUMPAD_2: number = 98;

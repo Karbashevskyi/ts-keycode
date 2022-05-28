@@ -1,4 +1,3 @@
-
 export const PAGEUP: number = 33;
 export const PAGEDOWN: number = 34;
 export const END: number = 35;

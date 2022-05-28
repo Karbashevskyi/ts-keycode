@@ -1,4 +1,3 @@
-
 export const F1: number = 112;
 export const F2: number = 113;
 export const F3: number = 114;

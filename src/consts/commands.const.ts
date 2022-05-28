@@ -1,4 +1,3 @@
-
 export const BACKSPACE: number = 8;
 export const TAB: number = 9;
 export const ENTER: number = 13;
