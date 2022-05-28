@@ -1,4 +1,4 @@
-import {f} from "../consts/f.const";
+import * as f from '../consts/f.const';
 
 export enum FEnum {
 

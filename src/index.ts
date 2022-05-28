@@ -1,14 +1,14 @@
-import {accents} from "./consts/accents.const";
-import {alphabet} from "./consts/alphabet.const";
-import {commands} from "./consts/commands.const";
-import {f} from "./consts/f.const";
-import {functions} from "./consts/functions.const";
-import {numbers} from "./consts/numbers.const";
-import {numpad} from "./consts/numpad.const";
-import {operators} from "./consts/operators.const";
-import {select} from "./consts/select.const";
-import {KeycodeInterface} from "./interfaces/keycode.interface";
-import {KeycodeEnum} from "./enums/index.enum";
+import * as accents from './consts/accents.const';
+import * as alphabet from './consts/alphabet.const';
+import * as commands from './consts/commands.const';
+import * as f from './consts/f.const';
+import * as functions from './consts/functions.const';
+import * as numbers from './consts/numbers.const';
+import * as numpad from './consts/numpad.const';
+import * as operators from './consts/operators.const';
+import * as select from './consts/select.const';
+import {KeycodeInterface} from './interfaces/keycode.interface';
+import {KeycodeEnum} from './enums/index.enum';
 
 export const keycode = KeycodeEnum;
 

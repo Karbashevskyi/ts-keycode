@@ -1,4 +1,4 @@
-import {numbers} from "../consts/numbers.const";
+import * as numbers from '../consts/numbers.const';
 
 export enum NumbersEnum {
     KEY_0 = numbers.KEY_0,

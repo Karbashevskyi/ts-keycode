@@ -1,4 +1,4 @@
-import {commands} from "../consts/commands.const";
+import * as commands from '../consts/commands.const';
 
 export enum CommandsEnum {
 

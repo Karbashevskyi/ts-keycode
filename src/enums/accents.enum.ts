@@ -1,4 +1,4 @@
-import {accents} from "../consts/accents.const";
+import * as accents from '../consts/accents.const';
 
 export enum AccentsEnum {
     NUM_LOCK = accents.NUM_LOCK,

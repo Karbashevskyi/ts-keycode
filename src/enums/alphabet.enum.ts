@@ -1,4 +1,4 @@
-import {alphabet} from "../consts/alphabet.const";
+import * as alphabet from '../consts/alphabet.const';
 
 export enum AlphabetEnum {
     A = alphabet.A,

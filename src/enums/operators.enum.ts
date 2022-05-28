@@ -1,4 +1,4 @@
-import {operators} from "../consts/operators.const";
+import * as operators from '../consts/operators.const';
 
 export enum OperatorsEnum {
 

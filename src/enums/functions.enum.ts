@@ -1,4 +1,4 @@
-import {functions} from "../consts/functions.const";
+import * as functions from '../consts/functions.const';
 
 export enum FunctionsEnum {
 

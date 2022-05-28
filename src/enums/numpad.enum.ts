@@ -1,4 +1,4 @@
-import {numpad} from "../consts/numpad.const";
+import * as numpad from '../consts/numpad.const';
 
 export enum NumpadEnum {
 
